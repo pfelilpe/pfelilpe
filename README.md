@@ -61,7 +61,13 @@
       </ul>
       <p class="has-text-align-center">
          <img decoding="async" class="wp-image-29 lazyloaded" style="width: 50px" src="cropped-batman.png" data-src="cropped-batman.png" alt="">
-        <br>Happy Hacking
+        <br>
+        Happy Hacking
+        <br>
+        <p>If you found this project helpful or interesting, consider buying me a coffee to support my work: ☕️</p>
+<a href="https://www.buymeacoffee.com/pfelilpe" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me a Coffee">
+</a>
       </p>
     </div>
   </div>
