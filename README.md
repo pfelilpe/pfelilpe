@@ -60,7 +60,6 @@
         <li><a href="https://www.linkedin.com/in/felipe-restrepo-rodriguez/" target="_blank" rel="noreferrer noopener">LinkedIn Profile</a></li>
       </ul>
       <p class="has-text-align-center">
-        <img decoding="async" class="wp-image-29 lazyloaded" style="width: 50px" src="cropped-batman.png" data-src="cropped-batman.png" alt="">
         <noscript>
           <img fetchpriority="high" decoding="async" width="512" height="512" class="wp-image-29 lazyload" style="width: 50px" src="cropped-batman.png" alt="" sizes="(max-width: 512px) 100vw, 512px" />
         </noscript>
