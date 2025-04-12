@@ -60,9 +60,9 @@
         <li><a href="https://www.linkedin.com/in/felipe-restrepo-rodriguez/" target="_blank" rel="noreferrer noopener">LinkedIn Profile</a></li>
       </ul>
       <p class="has-text-align-center">
-        <img decoding="async" class="wp-image-29 lazyloaded" style="width: 50px" src="https://pfelilpe.com/wp-content/uploads/2021/03/cropped-batman.png" data-src="https://pfelilpe.com/wp-content/uploads/2021/03/cropped-batman.png" alt="">
+        <img decoding="async" class="wp-image-29 lazyloaded" style="width: 50px" src="cropped-batman.png" data-src="cropped-batman.png" alt="">
         <noscript>
-          <img fetchpriority="high" decoding="async" width="512" height="512" class="wp-image-29 lazyload" style="width: 50px" src="https://pfelilpe.com/wp-content/uploads/2021/03/cropped-batman.png" alt="" srcset="https://www.pfelilpe.com/wp-content/uploads/2021/03/cropped-batman.png 512w, https://www.pfelilpe.com/wp-content/uploads/2021/03/cropped-batman-300x300.png 300w, https://www.pfelilpe.com/wp-content/uploads/2021/03/cropped-batman-150x150.png 150w, https://www.pfelilpe.com/wp-content/uploads/2021/03/cropped-batman-100x100.png 100w, https://www.pfelilpe.com/wp-content/uploads/2021/03/cropped-batman-270x270.png 270w, https://www.pfelilpe.com/wp-content/uploads/2021/03/cropped-batman-192x192.png 192w, https://www.pfelilpe.com/wp-content/uploads/2021/03/cropped-batman-180x180.png 180w, https://www.pfelilpe.com/wp-content/uploads/2021/03/cropped-batman-32x32.png 32w" sizes="(max-width: 512px) 100vw, 512px" />
+          <img fetchpriority="high" decoding="async" width="512" height="512" class="wp-image-29 lazyload" style="width: 50px" src="cropped-batman.png" alt="" sizes="(max-width: 512px) 100vw, 512px" />
         </noscript>
         <br>Happy Hacking
       </p>
