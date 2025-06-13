@@ -50,6 +50,7 @@
       <p class="has-medium-font-size">Hallazgos en progreso</p>
       <ul class="wp-block-list">
         <li><em>CVE</em>-2020-26631 Reserved</li>
+        <li><em>CVE</em>-2025-49595 Reserved en conjunto con Agustin Tedone y Luciano Sorrentino. Team Research</li>
       </ul>
       <p>Hasta el momento es lo que tengo, apenas estoy puliendo el blog :P</p>
       <p>Espero que se diviertan :)</p>
