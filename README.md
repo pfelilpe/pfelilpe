@@ -35,6 +35,10 @@
         <li><a href="https://wpscan.com/vulnerability/7ee1efb1-9969-40b2-8ab2-ea427091bbd8" target="_blank" rel="noreferrer noopener"><em>CVE</em>-2023-2580</a> XSS en <strong>AI-Engine</strong> de <strong>WordPress</strong></li>
         <li><a href="https://wpscan.com/vulnerability/4dad1c0d-bcf9-4486-bd8e-387ac8e6c892" target="_blank" rel="noreferrer noopener"><em>CVE</em>-2023-2578</a> XSS en <strong>Buy Me a Coffee</strong> de <strong>WordPress</strong></li>
       </ul>
+      <h5 class="wp-block-heading">Hallazgos en colaboración con Agustin Tedone, Luciano Sorrentino y Fabrizio Faggiani</h5>
+      <ul class="wp-block-list">
+        <li><a href="https://github.com/n8n-io/n8n/security/advisories/GHSA-pr9r-gxgp-9rm8" target="_blank" rel="noreferrer noopener"><em>CVE</em>-2025-49595</a> Denial of Service via Malformed Binary Data Requests en <strong>N8N</strong></li>
+      </ul>
       <h5 class="wp-block-heading">Hallazgos en colaboración con Joaquin Pochat y Gabriel Calle</h5>
       <ul class="wp-block-list">
         <li><a rel="noreferrer noopener" href="https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-0543" target="_blank"><em>CVE</em>-2023-0543</a> XSS en <strong>Arigato Autoresponder and Newsletter </strong>de <strong>WordPress</strong></li>
@@ -50,7 +54,6 @@
       <p class="has-medium-font-size">Hallazgos en progreso</p>
       <ul class="wp-block-list">
         <li><em>CVE</em>-2020-26631 Reserved</li>
-        <li><em>CVE</em>-2025-49595 Reserved en conjunto con Agustin Tedone y Luciano Sorrentino. Team Research</li>
       </ul>
       <p>Hasta el momento es lo que tengo, apenas estoy puliendo el blog :P</p>
       <p>Espero que se diviertan :)</p>
