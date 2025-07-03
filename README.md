@@ -38,6 +38,8 @@
       <h5 class="wp-block-heading">Hallazgos en colaboración con Agustin Tedone, Luciano Sorrentino y Fabrizio Faggiani</h5>
       <ul class="wp-block-list">
         <li><a href="https://github.com/n8n-io/n8n/security/advisories/GHSA-pr9r-gxgp-9rm8" target="_blank" rel="noreferrer noopener"><em>CVE</em>-2025-49595</a> Denial of Service via Malformed Binary Data Requests en <strong>N8N</strong></li>
+        <li><em>CVE</em>-2025-52554 Reserved</li>
+        <li><em>CVE</em>-2025-52478 Reserved</li>
       </ul>
       <h5 class="wp-block-heading">Hallazgos en colaboración con Joaquin Pochat y Gabriel Calle</h5>
       <ul class="wp-block-list">
