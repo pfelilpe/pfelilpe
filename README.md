@@ -43,7 +43,7 @@
       <ul class="wp-block-list">
         <li><a href="https://github.com/advisories/GHSA-hfmv-hhh3-43f2" target="_blank" rel="noreferrer noopener"><em>CVE</em>-2025-52478</a> Stored XSS in n8n Form Trigger allows Account Takeover en <strong>N8N</strong></li></ul>
       <ul class="wp-block-list">
-        <li><a href="https://github.com/n8n-io/n8n/security/advisories/GHSA-mvh4-2cm2-6hpg" target="_blank" rel="noreferrer noopener"><em>CVE</em>-CVE-2025-58177</a> Stored XSS in n8n LangChain Chat Trigger Node en <strong>N8N</strong></li>
+        <li><a href="https://github.com/n8n-io/n8n/security/advisories/GHSA-mvh4-2cm2-6hpg" target="_blank" rel="noreferrer noopener"><em>CVE</em>-2025-58177</a> Stored XSS in n8n LangChain Chat Trigger Node en <strong>N8N</strong></li>
       </ul>
       <h5 class="wp-block-heading">Hallazgos en colaboración con Joaquin Pochat y Gabriel Calle</h5>
       <ul class="wp-block-list">
