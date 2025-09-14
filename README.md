@@ -37,12 +37,12 @@
       </ul>
       <h5 class="wp-block-heading">Hallazgos en colaboración con Agustin Tedone, Luciano Sorrentino, Fabrizio Faggiani y Robinson</h5>
       <ul class="wp-block-list">
-        <li><a href="https://github.com/n8n-io/n8n/security/advisories/GHSA-pr9r-gxgp-9rm8" target="_blank" rel="noreferrer noopener"><em>CVE</em>-2025-49595</a> Denial of Service via Malformed Binary Data Requests en <strong>N8N</strong></li>
-        <ul class="wp-block-list">
-        <li><a href="https://github.com/advisories/GHSA-gq57-v332-7666" target="_blank" rel="noreferrer noopener"><em>CVE</em>2025-52554</a> Broken Access Control en <strong>N8N</strong></li>
-          <ul class="wp-block-list">
-        <li><a href="https://github.com/advisories/GHSA-hfmv-hhh3-43f2" target="_blank" rel="noreferrer noopener"><em>CVE</em>-2025-52478</a> Stored XSS in n8n Form Trigger allows Account Takeover en <strong>N8N</strong></li>
-            <ul class="wp-block-list">
+        <li><a href="https://github.com/n8n-io/n8n/security/advisories/GHSA-pr9r-gxgp-9rm8" target="_blank" rel="noreferrer noopener"><em>CVE</em>-2025-49595</a> Denial of Service via Malformed Binary Data Requests en <strong>N8N</strong></li></ul>
+      <ul class="wp-block-list">
+        <li><a href="https://github.com/advisories/GHSA-gq57-v332-7666" target="_blank" rel="noreferrer noopener"><em>CVE</em>-2025-52554</a> Broken Access Control en <strong>N8N</strong></li></ul>
+      <ul class="wp-block-list">
+        <li><a href="https://github.com/advisories/GHSA-hfmv-hhh3-43f2" target="_blank" rel="noreferrer noopener"><em>CVE</em>-2025-52478</a> Stored XSS in n8n Form Trigger allows Account Takeover en <strong>N8N</strong></li></ul>
+      <ul class="wp-block-list">
         <li><a href="https://github.com/n8n-io/n8n/security/advisories/GHSA-mvh4-2cm2-6hpg" target="_blank" rel="noreferrer noopener"><em>CVE</em>-CVE-2025-58177</a> Stored XSS in n8n LangChain Chat Trigger Node en <strong>N8N</strong></li>
       </ul>
       <h5 class="wp-block-heading">Hallazgos en colaboración con Joaquin Pochat y Gabriel Calle</h5>
