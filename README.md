@@ -35,11 +35,15 @@
         <li><a href="https://wpscan.com/vulnerability/7ee1efb1-9969-40b2-8ab2-ea427091bbd8" target="_blank" rel="noreferrer noopener"><em>CVE</em>-2023-2580</a> XSS en <strong>AI-Engine</strong> de <strong>WordPress</strong></li>
         <li><a href="https://wpscan.com/vulnerability/4dad1c0d-bcf9-4486-bd8e-387ac8e6c892" target="_blank" rel="noreferrer noopener"><em>CVE</em>-2023-2578</a> XSS en <strong>Buy Me a Coffee</strong> de <strong>WordPress</strong></li>
       </ul>
-      <h5 class="wp-block-heading">Hallazgos en colaboración con Agustin Tedone, Luciano Sorrentino y Fabrizio Faggiani</h5>
+      <h5 class="wp-block-heading">Hallazgos en colaboración con Agustin Tedone, Luciano Sorrentino, Fabrizio Faggiani y Robinson</h5>
       <ul class="wp-block-list">
         <li><a href="https://github.com/n8n-io/n8n/security/advisories/GHSA-pr9r-gxgp-9rm8" target="_blank" rel="noreferrer noopener"><em>CVE</em>-2025-49595</a> Denial of Service via Malformed Binary Data Requests en <strong>N8N</strong></li>
-        <li><em>CVE</em>-2025-52554 Reserved</li>
-        <li><em>CVE</em>-2025-52478 Reserved</li>
+        <ul class="wp-block-list">
+        <li><a href="https://github.com/advisories/GHSA-gq57-v332-7666" target="_blank" rel="noreferrer noopener"><em>CVE</em>2025-52554</a> Broken Access Control en <strong>N8N</strong></li>
+          <ul class="wp-block-list">
+        <li><a href="https://github.com/advisories/GHSA-hfmv-hhh3-43f2" target="_blank" rel="noreferrer noopener"><em>CVE</em>-2025-52478</a> Stored XSS in n8n Form Trigger allows Account Takeover en <strong>N8N</strong></li>
+            <ul class="wp-block-list">
+        <li><a href="https://github.com/n8n-io/n8n/security/advisories/GHSA-mvh4-2cm2-6hpg" target="_blank" rel="noreferrer noopener"><em>CVE</em>-CVE-2025-58177</a> Stored XSS in n8n LangChain Chat Trigger Node en <strong>N8N</strong></li>
       </ul>
       <h5 class="wp-block-heading">Hallazgos en colaboración con Joaquin Pochat y Gabriel Calle</h5>
       <ul class="wp-block-list">
